@@ -1,4 +1,4 @@
-# <img src="https://github.com/Aditya-R-Chakole/eSeller/blob/main/seller-png.png?raw=true" width="30" height="30"/> eSeller
+# <img src="https://github.com/Aditya-R-Chakole/eSeller/blob/main/seller-png.png?raw=true" width="30" height="30"/> [eSeller]
 
 ## Question-Answering System for Amazon Products
 
@@ -40,4 +40,5 @@
 [BeautifulSoup]: <https://pypi.org/project/beautifulsoup4/>
 [Huggingface Transformers]: <https://huggingface.co/docs/transformers/index>
 [Live Demo]: <https://share.streamlit.io/aditya-r-chakole/eseller/main/app.py>
+[eSeller]: <https://share.streamlit.io/aditya-r-chakole/eseller/main/app.py>
 [MIT]: <https://github.com/Aditya-R-Chakole/Algorithm_Visualizer/blob/main/LICENSE>
