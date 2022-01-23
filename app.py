@@ -45,13 +45,13 @@ def qna_bert(context, question):
         ans_tokens = input_ids[torch.argmax(start_scores) : torch.argmax(end_scores)+1]
         answer_tokens = tokenizer.convert_ids_to_tokens(ans_tokens , skip_special_tokens=True)
 
-        print ("\nQuestion ",question)
-        print ("\nAnswer Tokens: ")
-        print (answer_tokens)
+        #print ("\nQuestion ",question)
+        #print ("\nAnswer Tokens: ")
+        #print (answer_tokens)
 
         answer_tokens_to_string = tokenizer.convert_tokens_to_string(answer_tokens)
 
-        print ("\nAnswer : ",answer_tokens_to_string)
+        #print ("\nAnswer : ",answer_tokens_to_string)
         return answer_tokens_to_string
 
     context = context
@@ -187,7 +187,7 @@ def scrape_data(productURL):
     return details
 
 def find_answer(answer1, answer2):
-    print(answer1, type(answer1))
+    #print(answer1, type(answer1))
     answer1 = answer1.split(' ')
     answer2 = answer2.split(' ')
     answer = []
