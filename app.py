@@ -223,7 +223,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #212121;">
-  <a class="navbar-brand" href="https://www.amazon.in/" target="_blank"><b>eSeller</b></a>
+  <a class="navbar-brand" href="https://share.streamlit.io/aditya-r-chakole/eseller/main/app.py" target="_blank"><b>eSeller</b></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -318,7 +318,7 @@ if(productURL != ''):
             st.success(answer)
 else:
     st.markdown(f'''
-        <h4 class="card-subtitle" style="display: flex; flex-direction:row; justify-content: space-evenly; color:#FFFFFF;"><b>Welcome to <span style="color:#F7CA00;"><a href="https://share.streamlit.io/aditya-r-chakole/aqna-system/main/distillbert.py" style="color: inherit;">eSeller</a></span></b></h4>
+        <h4 class="card-subtitle" style="display: flex; flex-direction:row; justify-content: space-evenly; color:#FFFFFF;"><b>Welcome to <span style="color:#F7CA00;"><a href="https://share.streamlit.io/aditya-r-chakole/eseller/main/app.py" style="color: inherit;">eSeller</a></span></b></h4>
         <h5 class="card-subtitle" style="display: flex; flex-direction:row; justify-content: space-evenly; color:#FFFFFF;"><b>This <span style="color:#F7CA00;">short tutorial</span> will walk you through all of the features of this application.</b></h5>
         <div style="display: flex; flex-direction:row; justify-content: space-evenly; padding:10px;">
             <div class="card bg-dark text-white" style="width: 75rem;">
