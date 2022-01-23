@@ -1,4 +1,4 @@
-# <img src="https://github.com/Aditya-R-Chakole/eSeller/blob/main/seller-png.png?raw=true" width="25" height="25"/> eSeller
+# <img src="https://github.com/Aditya-R-Chakole/eSeller/blob/main/seller-png.png?raw=true" width="30" height="30"/> eSeller
 
 ## Question-Answering System for Amazon Products
 
